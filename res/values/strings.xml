@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">MoboCart</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="text_view1">MoboCart</string>
+    <string name="text_view2">Smart Live Shopping</string>
+    <string name="edit_text1">USER NAME</string>
+    <string name="edit_text2">PASSWORD</string>
+    <string name="button_text1">SIGN IN</string>
+    <string name="button_text2">NEW USER? SIGN UP</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="text_view3">Name</string>
+    <string name="edit_text3">your name</string>
+    <string name="text_view4">User Name</string>
+    <string name="edit_text4">mail id</string>
+    <string name="text_view5">Password</string>
+    <string name="edit_text5">password</string>
+    <string name="text_view6">Mobile</string>
+    <string name="edit_text6">mobile no</string>
+    <string name="button_text3">SIGN UP</string>
+    <string name="title_activity_feature">FeatureActivity</string>
+    <string name="button_text4">MoboCart</string>
+    <string name="button_text5">Handcraft</string>
+    <string name="title_activity_enter_amount">EnterAmountActivity</string>
+    <string name="text_view7">Enter Your Purchase Amount</string>
+    <string name="button_text6">OKAY</string>
+</resources>
